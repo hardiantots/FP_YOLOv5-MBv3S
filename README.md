@@ -13,4 +13,7 @@ More epoch = Increase the Metrics
 ### Comparison Evaluation Metrics between YOLOv5 Default & YOLOv5 MBv3s
 ![image](https://github.com/hardiantots/FP_YOLOv5-MBv3S/assets/111510893/d89399c4-647e-417f-a1c2-9b6fa9e501db)
 
-
+### Conclusion from this Final Project
+1. The level of responsiveness in detecting objects related to sign language is still lacking. The main influencing factor is the dataset we have, because our group has problems in the diversity and amount of data in each class.
+2. The dataset that will be carried out by the modeling process plays an important role for the success of this project
+3. By changing this yolov5 backbone to MobileNetv3small, the modeling results will be lighter and can be applied to systems that have limited memory
