@@ -17,3 +17,5 @@ More epoch = Increase the Metrics
 1. The level of responsiveness in detecting objects related to sign language is still lacking. The main influencing factor is the dataset we have, because our group has problems in the diversity and amount of data in each class.
 2. The dataset that will be carried out by the modeling process plays an important role for the success of this project
 3. By changing this yolov5 backbone to MobileNetv3small, the modeling results will be lighter and can be applied to systems that have limited memory
+
+*Problem when deploy the program is webcam can't start because of the use of the server is free so there are limitations for accessing the webcam via the cloud
